@@ -4,7 +4,7 @@
 <p> Full Name(TH) : พัชรนิษฐ์ สุดสว่าง
 <p> Nickname : แพทตี้
 <p> Gust : P'Jel
-
-<h> QUALITY ATTRIBUTES 
-<p> CHAT GPT
-<p> GOOGLE BARD
+<p> 
+<p> QUALITY ATTRIBUTES 
+<p> Chat GPT
+<p> Google bard
