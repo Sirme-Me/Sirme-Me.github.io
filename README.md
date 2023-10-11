@@ -3,4 +3,4 @@
 Full Name(Eng) : Patcharanit Sudsawang 
 Full Name(TH) : พัชรนิษฐ์ สุดสว่าง
 Nickname : แพทตี้
-Gust : Jel
+Gust : P'Jel
